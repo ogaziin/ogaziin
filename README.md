@@ -1,7 +1,8 @@
 # Hello, world! 👋
 
-Web Developer. Currently, I study JavaScript and TypeScript.
+<p>Web Developer. Currently, I study JavaScript and TypeScript.</p>
 
+## Hey! Talk to me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/602879617870856223/)
 
 ![Gaziin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogaziin&show_icons=true&theme=radical)
